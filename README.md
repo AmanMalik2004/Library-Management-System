@@ -12,7 +12,6 @@ The system ensures data consistency, reduces redundancy, and supports efficient 
 - PHP (server-side logic)
 - MySQL (database management)
 - SQL (queries, constraints, transactions)
-- ER Modeling (database design)
 
 ---
 
